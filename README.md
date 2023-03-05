@@ -1,6 +1,6 @@
 # projetobanco
 
-A new Flutter project.
+Um projeto Flutter feito como exercício.
 
 ## Getting Started
 
