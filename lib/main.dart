@@ -5,8 +5,6 @@ void main() {
   runApp(const ProjetoBanco());
 }
 
-//debugShowCheckedModeBanner: false,
-
 class ProjetoBanco extends StatelessWidget {
 const ProjetoBanco({ Key? key }) : super(key: key);
 
